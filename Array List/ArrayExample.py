@@ -53,3 +53,4 @@ l1 = LinkedList(e1)
 l1.insert(e2, 1)
 l1.append(e3)
 l1.print()
+
